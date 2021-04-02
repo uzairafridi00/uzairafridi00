@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi there, I'm [Uzair!](https://uzairafridi00.github.io) 👋
 
 I am software engineering student looking for opportunities and collabaration in projects related to Web Designing and Data Scraping.
 - 🔭 I’m currently working on Data Scraping from different Websites to automate task.
