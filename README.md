@@ -1,6 +1,6 @@
-<img src="https://github.com/uzairafridi00/uzairafridi00/images/think_twice.jpg">
+![Think Twice Code Once](https://github.com/uzairafridi00/uzairafridi00/blob/main/images/think_twice.jpg)
 
-### Hi 👋
+### Hi👋
 I am software engineering student looking for opportunities and collabaration in projects related to Web Designing and Data Scraping.
 - 🔭 I’m currently working on Data Scraping from different Websites to automate task.
 - 🌱 I’m currently learning JS6 and React Native.
