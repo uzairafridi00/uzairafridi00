@@ -1,4 +1,4 @@
-<img src="https://github.com/uzairafridi00/uzairafridi00/">
+<img src="https://github.com/uzairafridi00/uzairafridi00/images/think_twice.jpg">
 
 ### Hi 👋
 I am software engineering student looking for opportunities and collabaration in projects related to Web Designing and Data Scraping.
