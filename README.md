@@ -1,9 +1,9 @@
-### Hi there, I'm [Uzair!](https://github.com/uzairafridi00) 👋
+### Hi there, I'm [Uzair Afridi!](https://github.com/uzairafridi00) 👋
 
 I am software engineering student looking for opportunities and collabaration in projects related to Web Designing and Data Scraping.
 - 🔭 I’m currently working on Data Scraping from different Websites to automate task.
-- 🌱 I’m currently learning JS6 and React Native.
-- 🤝 I’m looking to collaborate on Data Scraping projects. 
+- 🌱 I’m currently learning JS6 and Laravel.
+- 🤝 I’m looking to collaborate on different type of projects. 
 
 <br />
 
