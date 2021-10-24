@@ -2,7 +2,7 @@
 
 I am software engineering student looking for opportunities and collabaration in projects related to Web Designing and Data Scraping.
 - 🔭 I’m currently working on Data Scraping from different Websites to automate task.
-- 🌱 I’m currently learning JS6 and Laravel.
+- 🌱 I’m currently learning JS6 (ES6) and React.
 - 🤝 I’m looking to collaborate on different type of projects. 
 
 <br />
