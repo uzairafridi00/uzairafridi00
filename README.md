@@ -1,9 +1,13 @@
 ### Hi there, I'm [Uzair Afridi!](https://github.com/uzairafridi00) 👋
 
 I am software engineering student looking for opportunities and collabaration in projects related to Web Designing and Data Scraping.
+
 - 🔭 I’m currently working on Data Scraping from different Websites to automate task.
 - 🌱 I’m currently learning JS6 (ES6) and React.
-- 🤝 I’m looking to collaborate on different type of projects. 
+- 👯 I’m looking to collaborate on Web Projects
+- 💬 Ask me about anything
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/uzair-afridi-011bbb199)
+- 😄 Pronouns: He/Him
 
 <br />
 
