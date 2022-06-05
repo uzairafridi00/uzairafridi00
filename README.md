@@ -2,8 +2,8 @@
 
 I am software engineering student looking for opportunities and collabaration in projects related to Web Designing and Data Scraping.
 
-- 🔭 I’m currently working on Data Scraping from different Websites to automate task.
-- 🌱 I’m currently learning JS6 (ES6) and React.
+- 🔭 I’m currently working on JS6 (ES6) and React.
+- 🌱 I’m currently learning Web Penetration Testing.
 - 👯 I’m looking to collaborate on Web Projects and using Laravel in projects.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/uzair-afridi-011bbb199)
