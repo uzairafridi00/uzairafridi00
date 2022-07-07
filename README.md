@@ -17,7 +17,7 @@
 
 ### About Me:
   
-I am software engineering student looking for opportunities and collabaration in projects related to Web Designing and Data Scraping.
+I am software engineering student looking for opportunities and collabaration in projects related to Web Development, Data Scraping and Web Pentesting.
 
 - 🔭 I’m currently working on JS6 (ES6) and React (Using TypeScript).
 - 🌱 I’m currently learning Web Penetration Testing.
