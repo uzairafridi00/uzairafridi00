@@ -19,7 +19,7 @@
   
 I am software engineering student looking for opportunities and collabaration in projects related to Web Designing and Data Scraping.
 
-- 🔭 I’m currently working on JS6 (ES6) and React.
+- 🔭 I’m currently working on JS6 (ES6) and React (Using TypeScript).
 - 🌱 I’m currently learning Web Penetration Testing.
 - 👯 I’m looking to collaborate on Web Projects (Laravel Projects & React).
 - 💬 Ask me about anything.
