@@ -21,7 +21,7 @@ I am software engineering student looking for opportunities and collabaration in
 
 - 🔭 I’m currently working on JS6 (ES6) and React (Using TypeScript).
 - 🌱 I’m currently learning Web Penetration Testing.
-- 👯 I’m looking to collaborate on Web Projects (Laravel Projects & React).
+- 👯 I’m looking to collaborate on Web Projects (React & Nodejs Projects).
 - 💬 Ask me about anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/uzair-afridi/)
 - 😄 Pronouns: He/Him
