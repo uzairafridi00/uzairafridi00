@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there, I'm Uzair Afridi 👋 </h2>
-<h3 align="center">A Student, Programmer, and Cyber Security Nerd!</h3>
+<h3 align="center">A Student, Programmer, and Cyber Security Nerd</h3>
 
 <div align="center">
  <p align="center">Let's connect!</p>
