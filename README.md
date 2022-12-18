@@ -19,7 +19,7 @@
   
 I am software engineering student looking for opportunities and collabaration in projects related to Web Development, Data Scraping and Web Security.
 
-- 🔭 I’m currently working on JS6 (ES6) and React (Using TypeScript).
+- 🔭 I’m currently working on Dart (Flutter) and React (Using TypeScript).
 - 🌱 I’m currently learning Web Penetration Testing.
 - 👯 I’m looking to collaborate on Web Projects (React & Nodejs Projects).
 - 💬 Ask me about anything.
