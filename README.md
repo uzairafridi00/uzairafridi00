@@ -13,6 +13,8 @@
  <a href="https://www.linkedin.com/in/uzair-afridi/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+ 
 </div>
 
 ### About Me:
@@ -25,6 +27,7 @@ I am software engineering student looking for opportunities and collabaration in
 - 💬 Ask me about anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/uzair-afridi/)
 - 😄 Pronouns: He/Him
+
 
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-000?logo=c)
@@ -71,6 +74,9 @@ I am software engineering student looking for opportunities and collabaration in
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairafridi00&theme=react&hide_border=true" alt="my commit status" width="49%" /> 
 </p>
+
+## 🐍 Contribution Snake:
+![Snake animation](https://github.com/codersangam/codersangam/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
 <img src="https://github.com/uzairafridi00/uzairafridi00/blob/main/images/you_can_do.jpg" alt="Image Not Found"/>
