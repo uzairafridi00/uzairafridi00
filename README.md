@@ -75,7 +75,11 @@ I am software engineering student looking for opportunities and collabaration in
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairafridi00&theme=react&hide_border=true" alt="my commit status" width="49%" /> 
 </p>
 
-## 🐍 Contribution Snake:
+### Github Activity: 🎆
+ 
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=uzairafridi00&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+ 
+ ## 🐍 Contribution Snake:
 ![Snake animation](https://github.com/codersangam/codersangam/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
