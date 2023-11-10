@@ -19,9 +19,9 @@
 
 ### About Me:
   
-I am software engineering student looking for opportunities and collabaration in projects related to App Development, Data Scraping and Data Mining.
+I am a software engineering student looking for opportunities and collaboration in projects related to App Development, Data Scraping, and Data Mining.
 
-- 🔭 I’m currently working on Dart (Flutter) and React (Using TypeScript).
+- 🔭 I’m currently working on Machine Learning (Python).
 - 🌱 I’m currently learning Data Mining.
 - 👯 I’m looking to collaborate on Web Scraping Projects.
 - 💬 Ask me about anything.
