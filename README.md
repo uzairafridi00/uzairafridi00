@@ -3,9 +3,9 @@
 
 <div align="center">
  <p align="center">Let's connect!</p>
- <a href="https://uzairafridi00.github.io/uzair-portfolio/">
+<!--  <a href="https://uzairafridi00.github.io/uzair-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio Website-1DA1F2?style=for-the-badge&logo=Personal_Website&logoColor=white" />
- </a>
+ </a> -->
 <a href="https://twitter.com/uzair__afridi/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
@@ -25,7 +25,7 @@ I am a software engineering student looking for opportunities and collaboration 
 - 🌱 I’m currently learning Data Mining.
 - 👯 I’m looking to collaborate on Web Scraping Projects.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/uzair-afridi/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/uzair-afridi-011bbb199/)
 - 😄 Pronouns: He/Him
 
 
