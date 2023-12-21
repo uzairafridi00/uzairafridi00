@@ -19,7 +19,7 @@
 
 ### About Me:
   
-I am a software engineering student looking for opportunities and collaboration in projects related to App Development, Data Scraping, and Data Mining.
+I am a software engineering student looking for opportunities and collaboration in projects related to App Development, Data Mining, and Machine Learning.
 
 - 🔭 I’m currently working on Machine Learning (Python).
 - 🌱 I’m currently learning Data Mining.
