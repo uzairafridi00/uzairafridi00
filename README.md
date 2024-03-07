@@ -41,9 +41,9 @@ I am a software engineering student looking for opportunities and collaboration 
 
 
 ### Technologies and Frameworks
-![Flutter](https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=%42A5F5)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%2361DAFB)
+![Numpy](https://img.shields.io/badge/numpy-%2320232a.svg?style=for-the-badge&logo=numpy&logoColor=%42A5F5)
+![Pandas](https://img.shields.io/badge/pandas-%2320232a.svg?style=for-the-badge&logo=pandas&logoColor=%2361DAFB)
+![Scikit Learn](https://img.shields.io/badge/sklearn-%2320232a.svg?style=for-the-badge&logo=sklearn&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
