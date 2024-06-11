@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there, I'm Uzair Afridi 👋 </h2>
-<h3 align="center">A Software Engineer, Programmer, and Data Science Nerd 🤓</h3>
+<h3 align="center"> A Software Engineer, Programmer, and Machine Learning Enthusiast 🤖 </h3>
 
 <div align="center">
  <p align="center">Let's connect!</p>
