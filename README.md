@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there, I'm Uzair Afridi 👋 </h2>
-<h3 align="center">A Student, Programmer, and Data Science Nerd 🤓</h3>
+<h3 align="center">A Software Engineer, Programmer, and Data Science Nerd 🤓</h3>
 
 <div align="center">
  <p align="center">Let's connect!</p>
@@ -19,7 +19,7 @@
 
 ### About Me:
   
-I am a software engineering student looking for opportunities and collaboration in projects related to EDA and Machine Learning.
+I am a software engineer looking for opportunities and collaboration in projects related to EDA and Machine Learning.
 
 - 🔭 I’m currently working on Machine Learning (Python).
 - 🌱 I’m currently learning Data Mining.
