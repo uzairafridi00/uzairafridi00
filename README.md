@@ -21,8 +21,8 @@
   
 I am a software engineer looking for opportunities and collaboration in projects related to EDA and Machine Learning.
 
-- 🔭 I’m currently working on Machine Learning (Python).
-- 🌱 I’m currently learning Data Mining.
+- 🔭 I’m currently learning Machine Learning (Python).
+- 🌱 I’m currently working on EDA.
 - 👯 I’m looking to collaborate on Web Scraping Projects.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/uzair-afridi00)
