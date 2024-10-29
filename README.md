@@ -6,13 +6,20 @@
 <!--  <a href="https://uzairafridi00.github.io/uzair-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio Website-1DA1F2?style=for-the-badge&logo=Personal_Website&logoColor=white" />
  </a> -->
-<a href="https://twitter.com/uzair__afridi/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+
+  <a href="https://www.kaggle.com/muhammaduzairafridi">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
  </a>
  
  <a href="https://www.linkedin.com/in/uzair-afridi00/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<a href="https://twitter.com/uzair__afridi/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+
+
 
  
 </div>
