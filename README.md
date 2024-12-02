@@ -30,7 +30,7 @@ I am a software engineer looking for opportunities and collaboration in projects
 
 - 🔭 I’m currently learning Machine Learning (Python).
 - 🌱 I’m currently working on EDA.
-- 👯 I’m looking to collaborate on Web Scraping Projects.
+- 👯 I’m looking to collaborate on ML Projects.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/uzair-afridi00)
 - 😄 Pronouns: He/Him
