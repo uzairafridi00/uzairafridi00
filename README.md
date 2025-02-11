@@ -52,7 +52,7 @@ I am a software engineer looking for opportunities and collaboration in projects
 ![Pandas](https://img.shields.io/badge/pandas-%2320232a.svg?style=for-the-badge&logo=pandas&logoColor=%2361DAFB)
 ![Scikit Learn](https://img.shields.io/badge/scikitlearn-%2320232a.svg?style=for-the-badge&logo=scikit-learn&logoColor=%2361DAFB)
 ![Streamlit](https://img.shields.io/badge/streamlit-%23FF2D20.svg?style=for-the-badge&logo=streamlit&logoColor=#white)
-![Flask](https://img.shields.io/badge/flask-%2338B2AC.svg?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/fastapi-%2338B2AC.svg?style=for-the-badge&logo=flask)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000?logo=MYSQL)
