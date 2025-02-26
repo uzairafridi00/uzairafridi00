@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there, I'm Uzair Afridi 👋 </h2>
-<h3 align="center"> A Software Engineer, Programmer, and Machine Learning Enthusiast 🤖 </h3>
+<h3 align="center"> A Software Engineer, Programmer, and a Machine Learning Engineer 🤖 </h3>
 
 <div align="center">
  <p align="center">Let's connect!</p>
@@ -26,10 +26,10 @@
 
 ### About Me:
   
-I am a software engineer looking for opportunities and collaboration in projects related to EDA and Machine Learning.
+I am a software engineer looking for opportunities and collaboration in projects related to Machine Learning and Deep Learning.
 
-- 🔭 I’m currently learning Machine Learning (Python).
-- 🌱 I’m currently working on EDA.
+- 🔭 I’m currently working Machine Learning and Deep Learning (Python).
+- 🌱 I’m currently exploring LLM.
 - 👯 I’m looking to collaborate on ML Projects.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/uzair-afridi00)
@@ -37,13 +37,13 @@ I am a software engineer looking for opportunities and collaboration in projects
 
 
 ### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/-C++-000?logo=c)
 ![Java](https://img.shields.io/badge/-Java-000?logo=java)
 ![JavaScript](https://img.shields.io/badge/-Javascript-000?logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/dart-3670A0?style=for-the-badge&logo=dart&logoColor=4597ce)
 
 
@@ -53,8 +53,7 @@ I am a software engineer looking for opportunities and collaboration in projects
 ![Scikit Learn](https://img.shields.io/badge/scikitlearn-%2320232a.svg?style=for-the-badge&logo=scikit-learn&logoColor=%2361DAFB)
 ![Streamlit](https://img.shields.io/badge/streamlit-%23FF2D20.svg?style=for-the-badge&logo=streamlit&logoColor=#white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%2338B2AC.svg?style=for-the-badge&logo=flask)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
+![Tensor Flow](https://img.shields.io/badge/-Tensorflow-000?logo=TensorFlow)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000?logo=MYSQL)
 
 
