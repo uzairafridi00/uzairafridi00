@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there, I'm Uzair Afridi 👋 </h2>
-<h3 align="center"> A Software Engineer, Programmer, and a Machine Learning Engineer 🤖 </h3>
+<h3 align="center"> Software Engineer | Machine Learning Enthusist 🤖 </h3>
 
 <div align="center">
  <p align="center">Let's connect!</p>
@@ -28,7 +28,7 @@
   
 I am a software engineer looking for opportunities and collaboration in projects related to Machine Learning and Deep Learning.
 
-- 🔭 I’m currently working Machine Learning and Deep Learning (Python).
+- 🔭 I’m currently working on Machine Learning and Deep Learning (Python).
 - 🌱 I’m currently exploring LLM.
 - 👯 I’m looking to collaborate on ML Projects.
 - 💬 Ask me about anything.
